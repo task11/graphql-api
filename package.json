@@ -1,0 +1,25 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "API with Graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/task11/graphql-api.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "jeong hyeon kim <tas11.github.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/task11/graphql-api/issues"
+  },
+  "homepage": "https://github.com/task11/graphql-api#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
